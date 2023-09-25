@@ -4,7 +4,7 @@ This repository includes an example plugin, `demo`, for you to use as a referenc
 
 The existing plugins can be browsed into the [Plugin Catalog](https://plugins.traefik.io).
 
-# Developing a Traefik plugin
+# Developing a Traefik p
 
 [Traefik](https://traefik.io) plugins are developed using the [Go language](https://golang.org).
 
