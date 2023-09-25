@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/tsrathor/plugindemo"
+	"github.com/tarathor/plugindemo"
 )
 
 func TestDemo(t *testing.T) {
